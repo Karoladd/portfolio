@@ -443,19 +443,19 @@ img{
 
 /* Nível de orcentagem */
 .skills__html{
-    width: 60%;
+    width: 100%;
 }
 .skills__css{
-    width: 40%;
+    width: 50%;
 }
 .skills__js{
-    width: 20%;
+    width: 40%;
 }
 .skills__react{
-    width: 0%;
+    width: 15%;
 }
 .skills__php{
-    width: 25%;
+    width: 80%;
 }
 .skills__node{
     width: 0%;
